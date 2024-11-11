@@ -2,6 +2,6 @@
 This is for my Youtube channel (JS Simplified)
 
 
-## Download this globally
+## Download this globally(Necessary)
 
 run "npm i -g detenv-cli"
